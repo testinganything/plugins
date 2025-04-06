@@ -1,6 +1,12 @@
 {
   "name": "HoldGIFSend-2.0",
   "description": "Hold GIF links to chat input before sending them.",
+  "authors": [
+    {
+      "name": "John",
+      "id": "1081004946872352958"
+    }
+  ],
   "vendetta": {
     "icon": "gif"
   }
